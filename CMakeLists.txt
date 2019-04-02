@@ -1,4 +1,4 @@
-# Author: Olivier Gillet (ol.gillet@gmail.com)
+# Author: Emilie Gillet (emilie.o.gillet@gmail.com)
 
 cmake_minimum_required(VERSION 2.6)
 

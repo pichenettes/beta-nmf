@@ -1,6 +1,6 @@
 #!/usr/bin/python2.6
 #
-# Copyright 2011 Olivier Gillet.
+# Copyright 2011 Emilie Gillet.
 
 """Command line tool to decompose a matrix stored in a text file."""
 

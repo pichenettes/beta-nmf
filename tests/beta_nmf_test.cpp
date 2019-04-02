@@ -1,4 +1,4 @@
-// Author: Olivier Gillet (ol.gillet@gmail.com)
+// Author: Emilie Gillet (emilie.o.gillet@gmail.com)
 //
 // Unit-tests for beta-divergence non-negative matrix factorization.
 

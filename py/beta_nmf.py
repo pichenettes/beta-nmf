@@ -1,6 +1,6 @@
 #!/usr/bin/python2.6
 #
-# Copyright 2011 Olivier Gillet.
+# Copyright 2011 Emilie Gillet.
 
 """NMF with beta divergence."""
 
